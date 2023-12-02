@@ -4,7 +4,7 @@
 <br>
 <br>
 <div style="display: inline_block"><br>
-<img align="center" alt="logo-projeto" src="mobili.png">
+<img align="center" alt="logo-projeto" src="mobile(2).png">
   
 </div>
 
