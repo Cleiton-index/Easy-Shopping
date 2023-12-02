@@ -1,13 +1,13 @@
 
 
-<h1>We-Care</h1></div>
+<h1>Easy Shopping</h1>
 <br>
 <br>
 
 <h2>Projeto Responsivo Turma-14 <a href="https://rodolfo.com..br/devclub">DevClub</a> </h2>
 <br>
 <br>
-<img alt="logo" src="mobile.png"
+<img alt="logo" src="mobile(2).png"/>
 <h3>Tecnologias usadas neste projeto </h3>
 <br>
 <br>
