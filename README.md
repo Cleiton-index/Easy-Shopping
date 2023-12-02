@@ -7,7 +7,7 @@
 <h2>Projeto Responsivo Turma-14 <a href="https://rodolfo.com..br/devclub">DevClub</a> </h2>
 <br>
 <br>
-<img alt="logo" src="mobile(2).png"/>
+<img alt="logo" src="assets1/mobile.png"/>
 <h3>Tecnologias usadas neste projeto </h3>
 <br>
 <br>
